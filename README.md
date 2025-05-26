@@ -9,7 +9,7 @@ This repository contains the source code and resources for our thesis titled:
 ## Dataset
 
 The dataset used in this project is publicly available on Kaggle:  
-[Kaggle Dataset Link]([kaggle-dataset](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
+[kaggle-dataset](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
 
 ---
 
