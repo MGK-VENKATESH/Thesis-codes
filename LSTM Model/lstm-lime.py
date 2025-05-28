@@ -1,4 +1,5 @@
 import lime
+import lime.lime_text
 class LSTMWrapper:
     def __init__(self, model, tokenizer, max_sequence_length):
         self.model = model
